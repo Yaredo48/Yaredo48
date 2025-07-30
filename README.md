@@ -29,7 +29,7 @@ I'm a **cybersecurity student** with a passion for ethical hacking, red teaming,
 
 | Skill Area                          | Project Link                                                   |
 |------------------------------------|----------------------------------------------------------------|
-| 💡 Threat Detection Labs           | [Detection Lab]([https://github.com/clong/DetectionLab](https://github.com/Yaredo48/Detection-Lab/edit/main/README.md))         |
+| 💡 Threat Detection Labs           | [Detection Lab](https://github.com/Yaredo48/Detection-Lab/edit/main/README.md)        |
 | 🤖 IR Automation with Shuffle      | [SOC Automation](https://github.com/YOUR_PROFILE/SOC-Automation) |
 | 🔐 CTF Writeups (HTB/THM)          | [CTF Writeups](https://github.com/YOUR_PROFILE/CTF-Writeups)   |
 | 🛡️ SIEM Playbooks & Dashboards    | [SIEM Toolkit](https://github.com/YOUR_PROFILE/SIEM-Playbooks) |
