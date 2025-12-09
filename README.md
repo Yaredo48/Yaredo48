@@ -16,12 +16,7 @@
 ---
 
 ## 🧠 Who Am I?
-I'm a **cybersecurity student** with a passion for ethical hacking, red teaming, and defending systems. I learn by breaking things (legally), analyzing attacks, and creating smart defensive strategies.
-
-- 🔍 **CTF Addict**: Always up for a good flag chase  
-- 💻 **Red Team Focus**: Offense is the best defense  
-- 🛠️ **Project-Based Learner**: Labs, scripts, and automation  
-- 🚀 **Goal**: SOC Analyst → Red Teamer → Bug Bounty Hunter
+I’m an ML/AI Engineer focused on building end-to-end machine learning systems — from data pipelines and model training to deployment. I work with PyTorch, deep learning, and Generative AI to build production-ready, real-world solutions.
 
 ---
 
