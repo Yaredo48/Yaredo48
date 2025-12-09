@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I’m <span style="color:#00FF41;">YARED</span> — Future Penetration Tester 🔥</h1>
+<h1 align="center">👋 Hey, I’m <span style="color:#00FF41;">YARED</span> — ML/AI Eengineer 🔥</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF41&center=true&width=500&lines=Cybersecurity+Student;CTF+Player+%7C+Red+Teamer+in+Training;Ethical+Hacker+%7C+SOC+Analyst;Always+learning+%F0%9F%92%AA%F0%9F%9A%80" />
