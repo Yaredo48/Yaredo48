@@ -4,7 +4,7 @@
 
 <!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00FF41&center=true&width=900&lines=Hi,+I'm+YARED;ML+%26+AI+Engineer+%F0%9F%92%AA;20%2B+Years+Building+AI+Systems+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00FF41&center=true&width=900&lines=Hi,+I'm+YARED;ML+%26+AI+Engineer+%F0%9F%92%AA;2%2B+Years+Building+AI+Systems+%F0%9F%9A%80" />
 </p>
 
 <!-- Custom Animated Banner -->
